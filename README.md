@@ -4,4 +4,4 @@
 ## 1. Loyal customers
 ## 2. New customers
 ## 3. You can't lose them
-## 4. Lost costumers**
+## 4. Lost costumers
