@@ -6,3 +6,5 @@
 **2.New customers**
 **3.You can't lose them**
 **4.Lost costumers**
+
+**The dataset contains 3 columns : sifarisci (customer id), tarix (sale date) and satis (sales amount in AZN)**
